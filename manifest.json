@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Bine",
+    "description": "Seja bem vindo a Bine EXTS... STATUS DE AVALIAÇÃO : (PROCESSO CONCLUIDO[AGUARDE..])",
+    "version": "5.0.0",
+    "action": {
+        "default_icon": "assets/icon.png",
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "tabs",
+        "storage"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ]
+}
